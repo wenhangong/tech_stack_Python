@@ -13,3 +13,4 @@
 - Dynamic Programming: Solving overlapping subproblems (e.g., Fibonacci sequence).
 - Greedy Algorithms: Making the best local choice at each step (e.g., shortest path).
 
+### 03 General Problem Solving (GPS)
