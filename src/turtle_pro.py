@@ -1,4 +1,4 @@
-import turtle
+import turtle #import the whole turtle module, including everything it defines
 wn = turtle.Screen()
 wn.bgcolor("gray")
 tess = turtle.Turtle()
